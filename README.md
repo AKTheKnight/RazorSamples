@@ -7,3 +7,12 @@ I use this to show people things and to keep track of all the little things I le
 ## Usage
 
 Feel free to use this in whatever way you want, you don't need to ask permission or tell me. Let me know if this has helped though, I'd love to know.
+
+## Projects
+
+### RazorPage
+
+This is a simple application demonstrating some simple Razor pages:
+- How routing is done with basic pages
+- How to use Layouts for pages
+- Using the ViewData Dictionary 

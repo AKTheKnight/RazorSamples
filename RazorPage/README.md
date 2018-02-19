@@ -4,7 +4,7 @@ This is a sample app showing how some simple Razor pages can work
 
 ## How to create this
 
-This app was created by running the "dotnet new web" command and then adding Microsoft.AspNet.Razor as a dependency.
+This app was created by running the "dotnet new web" command.
 
 ### Inside Startup.cs:
 
